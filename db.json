@@ -1,0 +1,162 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Pushpa - The Rise",
+      "rating": 5,
+      "description": "Highest Grossing Movie of India",
+      "year": 2021,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjA4ZDJmNmQtZTA4NS00NzhmLTg2ODktZjg3MDliZmUzYTZmXkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_.jpg"
+    },
+    {
+      "title": "RRR",
+      "year": "2022",
+      "description": "Highest Grossing Movie of India",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/RRR_Poster.jpg/220px-RRR_Poster.jpg",
+      "rating": 3,
+      "id": 2
+    },
+    {
+      "title": "She's Out Of My League",
+      "year": "2010",
+      "description": "My favourite movie from hollywood",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTBmOGYyZjAtZjZlNC00MzZjLWE5MTAtYmJmZWQyMDU2NGU5XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+      "rating": 4,
+      "id": 3
+    },
+    {
+      "title": "Ala Vaikunthapurramuloo",
+      "year": "2020",
+      "description": "This is the best family movie I have seen",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMmRkMGMzYTUtM2E2My00YjZlLWFmZjItMDA5M2EwNjNiZTNjXkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_.jpg",
+      "rating": 4,
+      "id": 4
+    },
+    {
+      "title": "DJ: Duvvada Jagannadham",
+      "year": "2017",
+      "description": "This is the best action movie of allu arjun",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/DJ_film_poster.jpg/220px-DJ_film_poster.jpg",
+      "rating": 4,
+      "id": 5
+    },
+    {
+      "title": "Arjun Reddy ",
+      "year": "2017",
+      "description": "Vijay Deverakonda. South Movie.",
+      "poster": "https://qph.cf2.quoracdn.net/main-qimg-3b08f3955cb7f26343dc3a14e751d1d3-lq",
+      "rating": 3,
+      "id": 6
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "desc": "Rocking",
+      "rating": 4,
+      "name": "Jaydeep",
+      "movieId": 1
+    },
+    {
+      "id": 2,
+      "desc": "Action Packed",
+      "rating": 4,
+      "name": "Ritesh",
+      "movieId": 1
+    },
+    {
+      "id": 3,
+      "desc": "Allu Arjun Best Actor",
+      "rating": 4.5,
+      "name": "Naman",
+      "movieId": 1
+    },
+    {
+      "desc": "Thanks",
+      "rating": 4,
+      "name": "Parul",
+      "movieId": "1",
+      "id": 4
+    },
+    {
+      "desc": "This is my review for movie ",
+      "rating": 4,
+      "name": "Jaydeep",
+      "movieId": "3",
+      "id": 5
+    },
+    {
+      "desc": "My First Review",
+      "rating": 3,
+      "name": "Jaydeep",
+      "movieId": "3",
+      "id": 6
+    },
+    {
+      "desc": "This is my favourite movie",
+      "rating": 4,
+      "name": "Jaydeep",
+      "movieId": "3",
+      "id": 7
+    },
+    {
+      "desc": "This is a review ",
+      "rating": 4,
+      "name": "",
+      "movieId": "3",
+      "id": 8
+    },
+    {
+      "desc": "New Review By Me",
+      "rating": 3.5,
+      "name": "Jaydeep",
+      "movieId": "3",
+      "id": 9
+    },
+    {
+      "desc": "Pushpa is my favourite movie",
+      "rating": 4,
+      "name": "Ravi",
+      "movieId": "1",
+      "id": 10
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Jaydeep",
+      "mobile": "8888855555",
+      "password": "Jaydeep@123"
+    },
+    {
+      "id": 2,
+      "name": "Ravi",
+      "mobile": "9999955555",
+      "password": "Ravi@123"
+    },
+    {
+      "id": 3,
+      "name": "Nirav",
+      "mobile": "7777755555",
+      "password": "Nirav@123"
+    },
+    {
+      "name": "Parul",
+      "mobile": "7676767676",
+      "password": "Parul@123",
+      "id": 4
+    },
+    {
+      "name": "Ravi",
+      "mobile": "1234567890",
+      "password": "Ravi@123",
+      "id": 5
+    },
+    {
+      "name": "Ram",
+      "mobile": "2224447779",
+      "password": "Ravi@123",
+      "id": 6
+    }
+  ]
+}
